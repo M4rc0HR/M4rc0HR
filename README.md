@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Marco Humberto Huamán Reyes!
 
 <div align='center'>
-I am a Systems Engineering student from Cajamarca - Peru.
+  <img src="https://your-image-url.com/profile-picture.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  <p>I am a Systems Engineering student from Cajamarca - Peru.</p>
 </div>
 
 ## 🛠️ Technologies & Tools
@@ -21,10 +22,12 @@ I am a Systems Engineering student from Cajamarca - Peru.
 ## 📈 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M4rc0HR&show_icons=true&theme=radical" width="400">
-</div
+</div>
 
-## 📫 How to Reach Me
-- **Email:** [mhuamanreyes@gmail.com](mailto:mhuamanreyes@gmail.com)
-- **LinkedIn:** [Marco Humberto Huamán Reyes](https://www.linkedin.com/in/marco-humberto-huam%C3%A1n-reyes-a6877b281/)
-- **GitHub:** [github.com/M4rc0HR](https://github.com/M4rc0HR)
+## 📫Encuéntrame en:
+[![Instagram](https://img.shields.io/badge/Instagram-@marco_hr_2-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/marco_hr_21/)
+[![Facebook](https://img.shields.io/badge/Facebook-Marco_Huamán_Reyes-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/marco.huamanreyes.9)
+</br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Humberto%20Huam%C3%A1n%20Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-humberto-huam%C3%A1n-reyes-a6877b281/)
+[![Email](https://img.shields.io/badge/Email-mhuamanreyes@gmail.com-%231DA1F2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:mhuamanreyes@gmail.com)
 
