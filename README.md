@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Marco Humberto Huamán Reyes!
-
-<div align='center'>
-  <img src="https://your-image-url.com/profile-picture.jpg" alt="Profile Picture" width="150" style="border-radius: 50%;">
-  <p>I am a Systems Engineering student from Cajamarca - Peru.</p>
-</div>
+<p>I am a Systems Engineering student from Cajamarca - Peru.</p>
 
 ## 🛠️ Technologies & Tools
 
