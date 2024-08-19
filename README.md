@@ -4,11 +4,9 @@
 ## 🛠️ Technologies & Tools
 
 - 💻 **Languages:** Java, C#, Python, SQL
-- 🗃️ **Databases:** SQL Server, MySQL, PostgreSQL
+- 🗃️ **Databases:** SQL Server, MySQL, PostgreSQL, MariaDB
 - 🧩 **Frameworks:** Spring Boot, ASP.NET MVC, Django
 - 🔧 **Tools:** Git, Power BI, Visual Studio, Eclipse, IntelliJ IDEA
-- 🏅 **Certifications:** Networking Basics by Cisco
-
 
 ## 📊 Most Used Languages
 <div align="center">
