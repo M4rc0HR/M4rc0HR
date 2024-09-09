@@ -20,7 +20,7 @@
 
 ## 📫 How to Reach Me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@marco_hr_21-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/marco_hr_21/)
+[![Instagram](https://img.shields.io/badge/Instagram-@M4rc0HR-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/marco_hr_21/)
 [![Facebook](https://img.shields.io/badge/Facebook-Marco_Huamán_Reyes-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/marco.huamanreyes.9)
 </br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marco%20Humberto%20Huam%C3%A1n%20Reyes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marco-humberto-huam%C3%A1n-reyes-a6877b281/)
