@@ -21,16 +21,6 @@ Marco Humberto Huamán Reyes | aka: M4rc0
 
 ---
 
-```bash
-root@github:~# focus
-```
-
-- Web & Infrastructure Pentesting
-- Privilege Escalation (Linux / Windows)
-- OWASP Top 10
-- CTFs & Labs (HTB / THM)
-
----
 
 ```bash
 root@github:~# stack
@@ -49,10 +39,9 @@ root@github:~# writeups
 ```
 
 - HTB / THM machine writeups
-- CTF notes
-- Security mini-projects
+- Security projects
 
-🔗 **Blog / Writeups:** https://YOUR-BLOG-URL
+🔗 **Blog / Writeups:** https://m4rc0.vercel.app/blog
 
 ---
 
