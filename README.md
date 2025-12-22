@@ -24,18 +24,6 @@ Marco Humberto Huamán Reyes | aka: M4rc0
 
 
 ```bash
-root@github:~# stack
-```
-
-`python` `bash` `java` `c#` `powershell`
-
-`kali-linux` `parrot-os` `linux` `windows`
-
-`nmap` `burpsuite` `metasploit` `sqlmap` `gobuster`
-
----
-
-```bash
 root@github:~# writeups
 ```
 
