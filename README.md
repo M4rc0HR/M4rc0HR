@@ -7,7 +7,7 @@ Marco Humberto Huamán Reyes | aka: M4rc0
 📍 Cajamarca, Peru
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/M4rc0HR/M4rc0HR/main/profile.png" width="300" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/M4rc0HR/M4rc0HR/main/profile.png" width="300px" margin="50px" style="border-radius:50%" />
 </div>
 
 <div align="center">
